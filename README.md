@@ -10,3 +10,6 @@ weight = 14,13,11,13,10,11,13,14,11,13,15,11,11,11,5,15,15,6,12,12,7,8,6
 value = 18,22,21,23,18,22,19,22,25,17,23,21,11,13,20,11,13,14,15,17,25,14,17
 
 Genetic improvement for knapsack was performed with the tournament selection algorithm using the above given default values.
+
+ 
+
