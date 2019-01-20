@@ -12,6 +12,8 @@ value = 18,22,21,23,18,22,19,22,25,17,23,21,11,13,20,11,13,14,15,17,25,14,17
 Genetic improvement for knapsack was performed with the tournament selection algorithm using the above given default values.
 
  
+
+ 
  
 
 
